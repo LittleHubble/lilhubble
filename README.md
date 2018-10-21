@@ -7,7 +7,7 @@ Project developed for the largest hackton in the world by NASA.
 * THEME - SPACE MINDFULNESS
 * CHALLENGE - On the Shoulders of Giants
 
-## CONTEXTO
+## CONTEXT
 
 Planets, asteroids, constellations and everything that we know about in the universe are often seen as something complicated, known only by experts. Why not transform it into a child’s play? What if NASA could inspire children, in their early age, to think about the universe and to understand more about its grandiosity?
 
