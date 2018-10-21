@@ -2,8 +2,8 @@
 
 Project developed for the largest hackathon in the world by NASA.
 All material developed and used is original and made by the team below:
-* Túlio Henrique
-* Marcos Felix
+* Túlio Henrique - https://www.linkedin.com/in/tuliohds/
+* Marcos Felix - https://www.linkedin.com/in/masfelix/
 * Debora Fernandes
 * Adam Kirst
 * Athos Emanuel
