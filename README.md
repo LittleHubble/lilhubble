@@ -25,7 +25,11 @@ Children’s little interest and lack of stimulations about the universe and sci
 
 ## WHERE WE DIFFERENTIATE
 
+* INTERACTIVITY
+* FUN AND STIMULATING CREATIVITY
+* INFOS ABOUT HUBBLE AND NASA
+* BRINGING CHILDREN CLOSER TO THE UNIVERSE
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+## CONCLUSION
+
+We want to stimulate a deeper look at the sky, creativity, knowledge, the unknown, dreams. For it, let us encourage the best dreamers in the world: children, our future.
