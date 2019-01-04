@@ -1,11 +1,11 @@
-# LITTLE HUBBLE IN SPACE 
+# LITTLE HUBBLE IN SPACE
 
 Project developed for the largest hackathon in the world by NASA.
 All material developed and used is original and made by the team below:
 * Túlio Henrique - https://www.linkedin.com/in/tuliohds/
 * Marcos Felix - https://www.linkedin.com/in/masfelix/
-* Debora Fernandes
-* Adam Kirst
+* Debora Fernandes - https://www.linkedin.com/in/deboracfernandes/
+* Adam Kirst - https://www.linkedin.com/in/adam-kirst/
 * Athos Emanuel
 
 Link to access the project availability on the Hackton website:
